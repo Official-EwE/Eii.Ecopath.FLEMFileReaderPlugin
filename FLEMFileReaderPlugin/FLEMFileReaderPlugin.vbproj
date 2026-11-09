@@ -217,6 +217,7 @@
   <ItemGroup>
     <None Include="..\README.md" Pack="True" PackagePath="\" />
     <None Include="..\EII_plain_128x128.png" Pack="True" PackagePath="\" />
+    <None Include="Eii.Ecopath.FLEMFileReaderPlugin.targets" Pack="True" PackagePath="build\;buildTransitive\" />
   </ItemGroup>
   <PropertyGroup>
     <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
